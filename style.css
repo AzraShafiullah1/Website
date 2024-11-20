@@ -162,4 +162,6 @@ color:#a9a9a9;
   100%{
     opacity: 1;
     transform: translateY(0px);
+	 sm:639px;
+    md: 768px;  
   }
